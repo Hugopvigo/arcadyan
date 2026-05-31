@@ -1,52 +1,20 @@
-Contribution: 2021-04-25 20:00
+# 🔌 Arcadyan
 
-Contribution: 2021-04-25 20:01
+---
 
-Contribution: 2021-04-25 20:02
+## 📄 Licencia
 
-Contribution: 2021-04-25 20:03
+**CC BY-NC-SA 4.0** — Compartir con atribución, sin uso comercial. Consulta [LICENSE](LICENSE) para más detalles.
 
-Contribution: 2021-04-25 20:04
+---
 
-Contribution: 2021-04-25 20:05
+<div align="center">
 
-Contribution: 2021-04-25 20:06
+**Desarrollado por [Hugo Perez-Vigo](https://hugopvigo.es)** · [@hugopvigo](https://x.com/hugopvigo)
 
-Contribution: 2021-04-25 20:07
+[![GitHub](https://img.shields.io/badge/GitHub-Hugopvigo-181717?style=for-the-badge&logo=github)](https://github.com/Hugopvigo)
 
-Contribution: 2021-04-26 20:00
-
-Contribution: 2021-04-26 20:01
-
-Contribution: 2021-05-01 20:00
-
-Contribution: 2021-05-01 20:01
-
-Contribution: 2021-05-01 20:02
-
-Contribution: 2021-05-01 20:03
-
-Contribution: 2021-05-01 20:04
-
-Contribution: 2021-05-01 20:05
-
-Contribution: 2021-05-01 20:06
-
-Contribution: 2021-05-12 20:00
-
-Contribution: 2021-05-12 20:01
-
-Contribution: 2021-05-12 20:02
-
-Contribution: 2021-05-12 20:03
-
-Contribution: 2021-05-12 20:04
-
-Contribution: 2021-05-12 20:05
-
-Contribution: 2021-05-12 20:06
-
-Contribution: 2021-05-12 20:07
+</div>
 
 Contribution: 2021-05-12 20:08
 
