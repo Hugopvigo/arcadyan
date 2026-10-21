@@ -1,3 +1,7 @@
+<meta property="og:title" content="ARCADYAN">
+<meta property="og:description" content="Un registro de actividad con marca de tiempo, generado automáticamente.">
+<meta property="og:image" content="https://raw.githubusercontent.com/Hugopvigo/arcadyan/main/docs/capturas/og.png">
+
 <p align="center">
   <img src="docs/capturas/00-cabecera.png" alt="Arcadyan — registro de contribuciones con marca de tiempo" width="100%">
 </p>
